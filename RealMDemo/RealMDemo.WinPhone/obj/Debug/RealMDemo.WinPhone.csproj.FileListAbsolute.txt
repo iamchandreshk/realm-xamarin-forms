@@ -1,0 +1,13 @@
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\RealMDemo.WinPhone.csprojResolveAssemblyReference.cache
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\App.g.i.cs
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\App.g.cs
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\MainPage.g.i.cs
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\MainPage.g.cs
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\App.xaml
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\MainPage.xaml
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\App.xbf
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\MainPage.xbf
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\RealMDemo.WinPhone.exe
+D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.WinPhone\obj\Debug\RealMDemo.WinPhone.pdb

@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\realmdemo\realmdemo.winphone\obj\debug\intermediatexaml\realmdemo.winphone.exe" HashGuid="45f32471-559f-f0af-100d-0e4d26a95313" />
+    <ReferenceAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\packages\dotnetcross.memory.unsafe.0.2.2\lib\dotnet\dotnetcross.memory.unsafe.dll" HashGuid="8565fce5-7d58-2a77-986d-0f57adb6deaa" />
+    <ReferenceAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\realmdemo\realmdemo\bin\debug\realmdemo.dll" HashGuid="0aa83f8b-b409-d4ef-42d7-6672bd9044c9" />
+    <ReferenceAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\packages\remotion.linq.2.1.1\lib\portable-net45+win+wpa81+wp80\remotion.linq.dll" HashGuid="b291f2b1-0e49-1308-a76b-8ad97045355e" />
+    <ReferenceAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
+    <ReferenceAssembly PathName="d:\project\001 xamarin application\sample\realm-sample\realmdemo\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

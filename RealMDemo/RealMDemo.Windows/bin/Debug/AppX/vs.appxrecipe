@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YUDIZSOLUTIONS</Machine>
+    <WindowsUser>Yudiz</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>746282fc-1aef-430a-b362-f9cc6e8c4da7</PackageIdentityName>
+    <IntermediateOutputPath>D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>BA494AFBD8881845313522ED4BD4A1F874A6AB1007A2C9F17266FEA3D9B02D37</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>746282fc-1aef-430a-b362-f9cc6e8c4da7_1.0.0.0_neutral__x6zdtp2pkmykg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>746282fc-1aef-430a-b362-f9cc6e8c4da7_x6zdtp2pkmykg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>746282fc-1aef-430a-b362-f9cc6e8c4da7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Yudiz</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-27T09:11:06.308</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\bin\Debug\RealMDemo.Windows.exe">
+      <PackagePath>RealMDemo.Windows.exe</PackagePath>
+      <Modified>2017-02-27T09:11:03.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\DotNetCross.Memory.Unsafe.0.2.2\lib\netcore45\DotNetCross.Memory.Unsafe.dll">
+      <PackagePath>DotNetCross.Memory.Unsafe.dll</PackagePath>
+      <Modified>2016-03-15T08:15:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo\bin\Debug\RealMDemo.dll">
+      <PackagePath>RealMDemo.dll</PackagePath>
+      <Modified>2017-02-27T09:11:02.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Remotion.Linq.2.1.1\lib\portable-net45+win+wpa81+wp80\Remotion.Linq.dll">
+      <PackagePath>Remotion.Linq.dll</PackagePath>
+      <Modified>2016-06-14T17:46:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo\bin\Debug\Realm.dll">
+      <PackagePath>Realm.dll</PackagePath>
+      <Modified>2017-02-20T18:04:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-27T07:36:58.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-27T07:36:58.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-27T07:36:58.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-02-27T07:36:58.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\FodyWeavers.xml">
+      <PackagePath>FodyWeavers.xml</PackagePath>
+      <Modified>2017-02-27T09:05:37.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo\FodyWeavers.xml">
+      <PackagePath>RealMDemo\FodyWeavers.xml</PackagePath>
+      <Modified>2017-02-27T07:45:33.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\bin\Debug\RealMDemo.Windows.xr.xml">
+      <PackagePath>RealMDemo.Windows.xr.xml</PackagePath>
+      <Modified>2017-02-27T08:48:53.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-02-27T09:03:20.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-02-27T09:03:20.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\packages\Xamarin.Forms.2.3.3.180\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2017-01-05T10:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\001 Xamarin Application\Sample\RealM-Sample\RealMDemo\RealMDemo\RealMDemo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-02-27T09:11:04.937</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
